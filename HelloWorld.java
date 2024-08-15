@@ -1,4 +1,4 @@
-public class H3110 w0r1d {
+public class HelloWorld {
     public static void main(String[] args) {
         char H = 'H';
         byte three = 3;
