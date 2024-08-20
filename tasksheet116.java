@@ -5,11 +5,11 @@ public class tasksheet116 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a string: ");
-        String inputString = scanner.nextLine();
+        String bogsnyaw = scanner.nextLine();
 
-        StringBuilder reversedString = new StringBuilder(inputString).reverse();
+        StringBuilder reversedString = new StringBuilder(bogsnyaw).reverse();
 
-        if (inputString.equals(reversedString.toString())) {
+        if (bogsnyaw.equals(reversedString.toString())) {
             System.out.println("The input string is a palindrome.");
         } else {
             System.out.println("The input string is not a palindrome.");
