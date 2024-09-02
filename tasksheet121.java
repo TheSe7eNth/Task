@@ -1,6 +1,6 @@
 import static java.lang.Math.*;
 
-public class tasksheet121 {
+public class tasksheet12 {
 
     public static int add(int bogsnyaw1, int bogsnyaw2) {
         return addExact(bogsnyaw1, bogsnyaw2);
