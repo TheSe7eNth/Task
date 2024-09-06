@@ -18,7 +18,7 @@ class Point {
     }
 }
 
-public class tasksheet124 {
+public class taskseet124 {
     public static void main(String[] args) {
         Point p = new Point(32, 32);
         for (int i = 0; i < 5; i++) {
